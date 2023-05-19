@@ -1,0 +1,32 @@
+{height:   20%;
+padding: 10%;
+border-radius: 5%;
+box-shadow : opx,2px,3px,rgb(122,118,122);
+}
+input{
+    border:none;
+    width: 130%;
+    height:10%;
+    font-size: 98%;
+    color:rgb(rgb(255, 208, 0), green, rgba(98, 0, 255, 0.767));
+    border-radius: 10px;
+}
+.button{
+    height: 30px;<br>
+    border: 2px rgb(122,118,122)solid;
+    cursor: pointer;
+}
+.button:hover{
+    border: 2px rgb(122, 118, 122)
+    cursor:pointer;
+    background-color:transparent;
+    color:white;
+    transition:0,5s;
+}
+{
+
+
+
+
+
+

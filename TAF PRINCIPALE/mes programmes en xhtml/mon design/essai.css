@@ -1,0 +1,75 @@
+p{
+    color:blue;
+    text-align: justify;
+    text-indent: 30px;
+    font-style: italic;
+    font-weight:bold ;
+    text-transform: capitalize;
+    text-decoration:none ;
+    background-color:pink
+      
+    
+}
+{
+    font_size: 14px;
+}
+h1{
+    text-align: center;
+    font-size: 22px;
+    color:blue;
+    
+    font-family:"Arial black",Arial,verdana,serif,
+    
+    
+    
+}
+h2{
+    color:green;
+    font-family:"verdana",Arial,verdana,serif
+    font-style:italic;
+    background-color:blue
+}
+em{
+    font-style: normal;
+    text-decoration:none;
+
+
+
+}  
+h3 em{
+    color:olive;
+    text-transform:uppercase;
+    background-color:black
+
+}
+body{
+    color:blueviolet;
+    background-image: url("Picture8.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+a:hover
+{
+    text-decoration: underline;
+    color:green ;
+}
+a:active
+{
+    background-color: peru;
+
+}
+a:focus
+{
+    background-color: blue;
+}
+
+a:visited
+{
+    text-decoration: line-through;
+    
+}
+ 
+h1{
+    color: blue;
+}
